@@ -1,0 +1,31 @@
+body{
+  background-color: #ff8364;
+}
+
+.align{
+  text-align: center;
+}
+
+.body-text{
+  font-size: 20px;
+}
+
+.resizing{
+  height: 200px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #5f6caf;
+  border-width: 5px;
+  width: 40%;
+}
+
+h1, h3{
+   color: #edf7fa;
+}
+
+footer{
+  text-align: center;
+}
